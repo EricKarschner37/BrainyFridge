@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.karn:khttp-android:0.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93f45d8a233824e8c02ee38f807fc5c2/khttp-android-0.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93f45d8a233824e8c02ee38f807fc5c2/khttp-android-0.1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.karn/khttp-android/0.1.2/8e7afa376915d8a31eed2381352b497c7d1a45db/khttp-android-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
